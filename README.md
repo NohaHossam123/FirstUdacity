@@ -1,1 +1,1 @@
-# FirstUdacity
+# In this project I dynamically create navigation menu spcific to number of sections at the end of page , every item in navigation is a link display it's content of section , I use dom of js to build this navigation and style it .
